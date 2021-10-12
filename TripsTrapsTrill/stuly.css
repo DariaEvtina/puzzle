@@ -1,0 +1,13 @@
+body{
+    background-color: lavender;
+    color: rebeccapurple;
+}
+h1{
+    background-color: #c5b8e0;
+    font-family: "Bookman Old Style", fantasy;
+    border-left: solid 5px #ffff;
+}
+div#puzzle{
+    margin-left: 50%;
+    width: 7%;
+}
